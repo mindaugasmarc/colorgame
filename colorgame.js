@@ -11,7 +11,7 @@ var modeButtons = document.querySelectorAll(".mode");
 init();
 
 function init(){
-	setupModeButtons();
+    setupModeButtons();
     setupSquares();
     reset();
    
